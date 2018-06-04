@@ -7,7 +7,7 @@ With the terminal, access the project folder, then execute the following command
 
 `Composer update`
 
-`Php artisan key :generate`
+`Php artisan key:generate`
 
 
 Create a new database, then modify the db information in the .env file.
