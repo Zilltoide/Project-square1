@@ -23,7 +23,7 @@ DB_PASSWORD=
 
 Then in the terminal, make the following command to create the tables.
 
-`Php artisan make :migration`
+`Php artisan migrate`
 
 Go to /Project-square1/public
 
